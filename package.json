@@ -1,0 +1,13 @@
+{
+	"private": true,
+	"dependencies": {
+		"three": "^0.132.2",
+		"troisjs": "^0.3.2",
+		"vue": "^3.2.7"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^1.6.0",
+		"@vue/compiler-sfc": "^3.2.7",
+		"vite": "^2.5.3"
+	}
+}
