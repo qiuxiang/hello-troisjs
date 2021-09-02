@@ -1,3 +1,3 @@
 import vue from "@vitejs/plugin-vue";
 
-export default { plugins: [vue()] };
+export default { base: "", plugins: [vue()] };
